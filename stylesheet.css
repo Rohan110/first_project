@@ -1,0 +1,234 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    body
+    {
+        overflow-x: hidden;
+    }
+    .container-fluid
+    {
+        font-family: 'Libre Franklin', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    .top-container {
+        background: url(/Index/Speedy-Creed/images/Ford\ Mustang.jpg);background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        height: 580px;
+        margin-left: -15px;
+        margin-right: -15px;
+        margin-top: -21px;
+    }
+    
+    .header {
+      padding: 0px 0px;
+      background: #ffffff;
+      color: black;
+      margin-left: -15px;
+    }
+    .borderLine
+    {
+        width: 1360px;
+        margin-top: 24px;
+        margin-left: -15px;
+    }
+    ul
+    {
+        margin-left: 155px;
+    }
+    ul li{
+        display: inline-block;
+        position: relative;
+        margin-left: 32px;
+        margin-top: 26px;
+        font-size: 14px;
+        font-weight: 600;
+    }
+    i
+    {
+        margin-left: 630px;
+        color: gray;
+    }
+    .content {
+      padding: 16px;
+    }
+    .boxNo_1
+    {
+        height: 165px;
+        background: #ffffff;
+    }
+    .boxNo_1 h6
+    {
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 205px;
+        margin-top: 100px;
+        letter-spacing: 2px;
+    }
+    .boxNo_1 h5
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 580px;
+        margin-top: -25px;
+    }
+    .boxNo_1 .h5
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 580px;
+        margin-top: 25px;
+    }
+    .img_2
+    {
+        background: url(/Index/Speedy-Creed/images/Mclaren\ P1\ XP05\ Prototype.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        height: 554px;
+        margin-left: -31px;
+        margin-right: -31px;
+    }
+    .boxNo_2
+    {
+        height: 200px;
+        background: #ffffff;
+    }
+    .boxNo_2 h6
+    {
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 205px;
+        margin-top: 100px;
+        letter-spacing: 2px;
+    }
+    .boxNo_2 h5
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 580px;
+        margin-top: -25px;
+    }
+    .boxNo_2 .h5
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 580px;
+        margin-top: 25px;
+        width: 520px;
+        line-height: 1.5;
+    }
+    .img_3
+    {
+        background: url(/Index/Speedy-Creed/images/Nissan\ GT-R.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        height: 554px;
+        margin-left: -31px;
+        margin-right: -31px;
+    }
+    .boxNo_3
+    {
+        height: 387px;
+        background: #ffffff;
+    }
+    .boxNo_3 h6
+    {
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 188px;
+        margin-top: 98px;
+        letter-spacing: 2px;
+    }
+    .boxNo_3 h3
+    {
+        /* font-size: 16px; */
+        font-weight: 300;
+        margin-left: 569px;
+        /* margin-top: 0px; */
+        color: #333333;
+    }
+    .boxNo_3 .h5
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 569px;
+        margin-top: 25px;
+        width: 520px;
+        line-height: 1.5;
+    }
+    .boxNo_3 .h6
+    {
+        margin-left: 569px;
+        margin-top: -25px;
+        font-size: 11px;
+        color: #7a7a7a;
+    }
+    .boxNo_3 p
+    {
+        margin-left: 569px;
+        margin-top: 25px;
+        font-size: 16px;
+        font-weight: 400;
+        color: #2c2c2c;
+        text-decoration-line: underline;
+    }
+    .img_4
+    {
+        background: url(/Index/Speedy-Creed/images/logo.png);
+        background-repeat: no-repeat;
+        background-size: 100%;
+        background-attachment: fixed;
+        background-position: center;
+        height: 554px;
+        margin-left: -31px;
+        margin-right: -31px;
+    }
+    .boxNo_4
+    {
+        height: 850px;
+        background: #ffffff;
+    }
+    .boxNo_4 h6
+    {
+        font-size: 14px;
+        font-weight: 900;
+        margin-left: 188px;
+        margin-top: 98px;
+        letter-spacing: 2px;
+    }
+    .mail
+    {
+        font-size: 16px;
+        font-weight: 400;
+        margin-left: 569px;
+        margin-top: 25px;
+        width: 520px;
+        line-height: 1.5;
+    }
+    button
+    {
+        border: .5px solid;
+        height: 40px;
+        width: 100px;
+        background: black;
+        color: whitesmoke;
+        border-radius: 3px!important;
+    }
+    
+    .sticky {
+      position: fixed;
+      top: 0;
+      width: 100%;
+    }
+    
+    .sticky + .content {
+      padding-top: 102px;
+    }
